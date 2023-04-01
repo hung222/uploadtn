@@ -12,10 +12,10 @@ inputs:
     required: false
     default: false
   GIGALIXIR_USERNAME:
-    description: 'Your Gigalixir ttlnc89'
+    description: 'Your Gigalixir hung222'
     required: true
   GIGALIXIR_PASSWORD:
-    description: 'Your Gigalixir mnbvcxzas'
+    description: 'Your Gigalixir mnbvcxzas!@12'
     required: true
   MIGRATIONS:
     description: 'Configuration for migrations'
