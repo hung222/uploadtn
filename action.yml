@@ -27,4 +27,4 @@ inputs:
 
 runs:
   using: 'python 3.10.4'
-  main: 'dist/localhost:8000'
+  main: 'dist/python manage.py runserver'
